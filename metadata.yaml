@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1555
     wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14284#Truxton-King--A-Story-of-Graustark
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-12-07'
 gutenberg_type: Text
